@@ -15,3 +15,4 @@ Small resource of minigames to liven up your server interactions.
 # Credits
 * [NoPixel](https://www.nopixel.net/) with their cool ass minigames
 * [sharkiller](https://github.com/sharkiller) for the web based versions of the nopixel minigames.
+* [Me](https://github.com/IdrisDose) converting to fivem based resource and slight tweaks. (idk why I credited myself)
