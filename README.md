@@ -5,9 +5,13 @@ Small resource of minigames to liven up your server interactions.
 # List of Minigames
 * Lockpick/Skillcheck - Similar to the NoPixel One
 
+# Coming soon
+* Better Hacking Minigame - Probably not the intense nopixel one
+* Better Memory Game - Awaiting Permission from original author
+
 # Requirements
 * [QBCore](https://github.com/qbcore-framework)
 
 # Credits
-* Nopixel with their cool ass minigames
+* [NoPixel](https://www.nopixel.net/) with their cool ass minigames
 * [sharkiller](https://github.com/sharkiller) for the web based versions of the nopixel minigames.
