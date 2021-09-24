@@ -4,6 +4,8 @@ game 'gta5'
 description 'Minigames'
 version '0.1.0'
 
+author 'Idris et al.'
+
 ui_page "html/index.html"
 shared_script '@qb-core/import.lua'
 client_script 'client.lua'
