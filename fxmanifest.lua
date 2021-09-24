@@ -1,11 +1,11 @@
 fx_version 'cerulean'
 game 'gta5'
 
-description 'Minigame'
+description 'Minigames'
 version '0.1.0'
 
 ui_page "html/index.html"
-shared_script '@core/import.lua'
+shared_script '@qb-core/import.lua'
 client_script 'client.lua'
 
 files {
@@ -19,5 +19,5 @@ exports {
 }
 
 dependencies {
-    'core'
+    'qb-core'
 }
